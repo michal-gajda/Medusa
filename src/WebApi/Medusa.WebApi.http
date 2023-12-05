@@ -1,0 +1,6 @@
+@Medusa.WebApi_HostAddress = http://localhost:5005
+
+GET {{Medusa.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
